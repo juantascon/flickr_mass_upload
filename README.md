@@ -8,8 +8,8 @@ This is a very very simple script to upload files on flickr.
 Dependencies:
 -------------
 
-python2
-flickrapi: http://stuvel.eu/flickrapi
+* python2
+* flickrapi: http://stuvel.eu/flickrapi
 
 Running:
 --------
